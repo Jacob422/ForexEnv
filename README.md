@@ -69,4 +69,4 @@ Projekt jest przystosowany do ciągłego wdrażania (Continuous Deployment).
 3. Zmienne konfiguracyjne zarządzane są poprzez mechanizm Railway Environment Variables, co gwarantuje bezpieczeństwo tajnych kluczy.
 
 ## 📝 Licencja
-Projekt udostępniony na licencji MIT. Zobacz plik `LICENSE` po więcej szczegółów.
+Projekt udostępniony na licencji MIT. 
