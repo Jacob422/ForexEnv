@@ -1,0 +1,15 @@
+# Foldery budowania .NET
+bin/
+obj/
+
+# Pliki środowiskowe
+.env
+*.db
+forexenv.db
+
+# Pliki konfiguracyjne IDE
+.vs/
+.vscode/
+
+# Pliki Git
+.git/

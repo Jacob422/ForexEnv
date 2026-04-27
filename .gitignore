@@ -1,0 +1,24 @@
+# Zignoruj pliki budowania
+[Bb]in/
+[Oo]bj/
+
+# Zignoruj pliki środowiskowe / pliki tajne
+.env
+appsettings.Development.json
+appsettings.user.json
+
+# Zignoruj pliki specyficzne dla użytkownika/IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Lokalna baza danych (z poprzedniej implementacji)
+*.db
+*.sqlite
+forexenv.db
+forexenv.db-shm
+forexenv.db-wal
+
+# macOS
+.DS_Store
